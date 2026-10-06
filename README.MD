@@ -54,3 +54,6 @@ Find Relevant FAQ
 Return Answer
       ↓
 Display Response
+## Screenshot
+
+![Hospital FAQ Chatbot](Screenshot1.png)
